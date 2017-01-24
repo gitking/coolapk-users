@@ -27,16 +27,16 @@ id中存在unicode字符的人也有统计，有`955`人，~~不要问为什么:
 ##酷安动态top10:
 
 排名|用户名|动态数
-----|--------- | --------
-十|`@Trumeet`   |     `2225`  
-九|`@zesty`     |   `2410`  
-八|`@Fince`     |   `2476`  
-七|`@zhuangpan`  |      `2516`  
-六|`@酷安小编`   |     `2516`  
-五|`@八百标兵`   |     `2538`  
-四|`@lyh123`    |    `2606`  
-三|`@绯色の炎`   |     `2851` 
-二|`@wsndd321`   |     `5309`  
+----|:---------: | :--------:
+十|`@pandechang`|    `2005`
+九|`@Trumeet`   |     `2225`  
+八|`@zesty`     |   `2410`  
+七|`@Fince`     |   `2476`  
+六|`@zhuangpan`  |      `2516`  
+五|`@酷安小编`   |     `2516`  
+四|`@八百标兵`   |     `2538`  
+三|`@lyh123`    |    `2606`  
+二|`@绯色の炎`   |     `2851` 
 一|`@夜之浪子`    |    `6063`  
 
 ##酷安关注应用top10：
@@ -120,4 +120,4 @@ ___
 
 ___
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品</span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br/>本作品</span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
